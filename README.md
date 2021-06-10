@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/OctopusSamples/OctoPetShop)
+
 # OctoPetShop
 Octopus Pet Shop Example Web app written in .NET Core.  This solution consists of:
  - Octopus Pet Shop Web front end
